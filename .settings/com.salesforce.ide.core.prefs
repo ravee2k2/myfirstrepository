@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+endpointApiVersion=31.0
+endpointEnvironment=Production/Developer Edition
+endpointServer=www.salesforce.com
+httpsProtocol=true
+ideVersion=31.0
+keependpoint=false
+metadataFormatVersion=31.0
+namespacePrefix=
+packageName=Recruiting
+preferToolingDeployment=true
+projectIdentifier=IDE-5744037501839915875
+readTimeout=400
+username=jalagam@test.com
